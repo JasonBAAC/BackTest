@@ -1,0 +1,21 @@
+# Python virtualenv (this folder is a venv)
+bin/
+lib/
+lib64/
+share/
+etc/
+pyvenv.cfg
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Environment / secrets
+.env
+*.pem
+*.key
+
+# Local data stores
+*.sqlite
+*.db
