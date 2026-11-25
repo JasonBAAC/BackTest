@@ -20,4 +20,5 @@ __pycache__/
 *.sqlite
 *.db
 *.csv
+*.html
 
